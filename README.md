@@ -1,2 +1,3 @@
-# decision-making-app
-App using React to pick a random ToDo task.
+# Decision Making App
+
+App to pick a random Todo task using React, Babel and live-server.
