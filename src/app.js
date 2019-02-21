@@ -1,7 +1,5 @@
-// install -> import -> use
 import React from "react";
 import ReactDOM from "react-dom";
+import DecisionMakingApp from "./components/DecisionMakingApp";
 
-const template = React.createElement("p", {}, "Test test test");
-
-ReactDOM.render(template, document.getElementById("app"));
+ReactDOM.render(<DecisionMakingApp />, document.getElementById("app"));
